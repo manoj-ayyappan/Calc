@@ -1,2 +1,2 @@
 # Calc
-Calculate square and cube of a number
+An Android app to Calculate the square and cube of a number
